@@ -8,7 +8,7 @@ pkg update && pkg upgrade
 pkg install git
 pkg install python
 rm -rf Dark_Devilll
-git clone https://github.com/MUMIT-404-CYBER/PyCompile
+git clone https://github.com/darkdevil120/Dark_Devilll.git
 cd Dark_Devilll
 python Dark_Devil.py
 ```
