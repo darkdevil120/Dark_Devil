@@ -7,10 +7,10 @@
 pkg update && pkg upgrade
 pkg install git
 pkg install python
-rm -rf PyCompile
+rm -rf Dark_Devilll
 git clone https://github.com/MUMIT-404-CYBER/PyCompile
-cd PyCompile
-python enc.py
+cd Dark_Devilll
+python Dark_Devil.py
 ```
 
 ___This Tools is Free Enjoy Dear User.___</br>
