@@ -6,9 +6,9 @@
 pkg update && pkg upgrade
 pkg install git
 pkg install python
-rm -rf Dark_Devilll
-git clone https://github.com/darkdevil120/Dark_Devilll.git
-cd Dark_Devilll
+rm -rf Dark_Devil
+git clone https://github.com/darkdevil120/Dark_Devil.git
+cd Dark_Devil
 python Dark_Devil.py
 ```
 
